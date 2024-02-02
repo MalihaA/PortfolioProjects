@@ -1,6 +1,6 @@
 
 /*
-Covid 19 Data Exploration 
+Covid 19 Data Exploration (Follow along with Alex The Analyst)
 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
